@@ -1,0 +1,23 @@
+body {
+  background-image: linear-gradient(to bottom, #C3EDF6, #364F7F);
+}
+
+p {
+        padding-left: 10;
+        color: #272727;
+}
+
+a{
+        font-size: 15pt;
+        color: #272727;
+}
+
+h1 {
+        color: #272727;
+}
+
+a:hover {
+        color: #3871C6;
+}
+
+
