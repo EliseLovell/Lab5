@@ -1,0 +1,35 @@
+h1 {
+        text-align: center;
+        color: white;
+        font-size: 35pt;
+        font-weight: bold;
+}
+
+body {
+        background-image: url(back2.jpg); background-size: 100%;
+}
+
+p {
+        font-weight: bold;
+        font-size: 18 pt;
+        color: white;
+        background-color: #3362BD;
+}
+
+p.vid {
+        text-align: right;
+}
+
+div {
+        padding-left: 250;
+}
+
+a {
+        color: white;
+}
+
+a:hover {
+        color: #13366A;
+}
+
+
