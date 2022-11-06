@@ -1,0 +1,14 @@
+p {
+        background-color: white;
+        padding: 10;
+        border-width: 2px;
+        border-style: solid}
+
+form {
+        text-align: center;
+        display: inline-block;
+}
+
+div {
+        text-align: center;
+}
